@@ -1,5 +1,5 @@
 Needs compiling from SMA to .amxx with AMXX studio.
-Place the compliled amxx in to amxmodx/plugins
+Place the compiled amxx in to amxmodx/plugins
 Add the following line in amxmodx/config/plugins.ini
 AFKRR.amxx
 
