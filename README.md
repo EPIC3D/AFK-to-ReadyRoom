@@ -14,4 +14,7 @@ Can be combined with idlekicker.amxx
 By default the idle time is 150 sec.
 #define IDLE_TIME 150.0 // idle time in seconds
 
+## Support
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E6Z42AUOBQ)
 
